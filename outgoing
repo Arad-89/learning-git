@@ -1,0 +1,13 @@
+# Learning Git and GitHub
+This is a repository for learning Git and GitHub.
+
+## Git
+Git is a version control system that allows you to track changes to your code.
+
+## GitHub
+GitHub is a web-based platform for hosting and collaborating on Git repositories.
+
+## Git Commands
+git init - Initialize a new Git repository
+git add - Add files to the staging area
+git commit - Create a new commit
